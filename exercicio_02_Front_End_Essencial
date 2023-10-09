@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista</title>
+</head>
+<body>
+    <h1>Curriculo Luiz Antonio</h1>
+    
+    <h2>Dados pessoais</h2>
+    <p>Avenida Cesário de Melo 9656</p>
+    <p>Telefone: 21-9898-7777</p>
+    
+    <hr>
+    
+    <h2>Formação acadêmica</h2>
+    <p>Escola Técnica Electra</p>
+    <p>Duração: 18 meses</p>
+    
+    <hr>
+    
+    <h2>Experiência profissional</h2>
+    <p>Microsoft Office</p>
+    <p>Linux Fedora</p>
+    <p>Corel Draw</p>
+</body>
+</html>
